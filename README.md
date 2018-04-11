@@ -11,7 +11,7 @@
 ```
 
 <p align="center">
-<img src="pin.png" height="200" width="200"></img>
+<img src="uploads/pin.png" height="200" width="200"></img>
 </p>
 
 
@@ -28,13 +28,13 @@
 + Sends probe requests with pinokyo.txt
 
 <p align="center">
-<img src="pinokyo.png"></img>
+<img src="uploads/pinokyo.png"></img>
 </p>
 
 ### Screenshots
 
-<img src="piscreen.jpg" height="%45" width="35%"></img>
-<img src="piscreen2.png" width="35%"></img>
+<img src="uploads/piscreen.jpg" height="%45" width="35%"></img>
+<img src="uploads/piscreen2.png" width="35%"></img>
 
 ### Tested
 
