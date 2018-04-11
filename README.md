@@ -18,6 +18,7 @@
 ### Purpose
 + 🍓🤥🍍If threats like wifi pineapple attacks or karma attacks are active around, users will be informed about these threats. 
 + Fills the SSID pool of WiFi Pineapple device with the SSID informations in pinokyo.txt
++ Generates fake probe requests against KARMA attacks.
 
 
 ### Working Principles
