@@ -14,6 +14,11 @@
 <img src="uploads/pin.png" height="200" width="200"></img>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-2-yellow.svg"></a> <img src="https://img.shields.io/badge/license-GPLv3-red.svg">
+<a href="https://www.blackhat.com/asia-18/arsenal/schedule/index.html#wipi-hunter---detects-illegal-wireless-network-activities-9854"><img src="https://rawgit.com/toolswatch/badges/master/arsenal/asia/2018.svg"></a>
+</p>
+
 
 ### Purpose
 + 🍓🤥🍍If threats like wifi pineapple attacks or karma attacks are active around, users will be informed about these threats. 
